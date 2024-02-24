@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Word-Google.Server", "WordApp.Server\Word-Google.Server.csproj", "{DD679061-B0FE-4F44-8716-CAA69F9F688F}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Word-Google.Client", "wordapp.client\Word-Google.Client.esproj", "{582AF022-C634-44C5-8216-5E52FF2EC77E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD679061-B0FE-4F44-8716-CAA69F9F688F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD679061-B0FE-4F44-8716-CAA69F9F688F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD679061-B0FE-4F44-8716-CAA69F9F688F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD679061-B0FE-4F44-8716-CAA69F9F688F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{582AF022-C634-44C5-8216-5E52FF2EC77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582AF022-C634-44C5-8216-5E52FF2EC77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582AF022-C634-44C5-8216-5E52FF2EC77E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{582AF022-C634-44C5-8216-5E52FF2EC77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582AF022-C634-44C5-8216-5E52FF2EC77E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{582AF022-C634-44C5-8216-5E52FF2EC77E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B28FCE5E-192E-4F23-8D14-CA48B4C97357}
+	EndGlobalSection
+EndGlobal
